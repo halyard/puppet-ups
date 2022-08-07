@@ -1,0 +1,16 @@
+{
+  "name": "halyard-ups",
+  "version": "0.0.1",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure UPS monitoring",
+  "source": "https://github.com/halyard/puppet-ups",
+  "project_page": "https://github.com/halyard/puppet-ups",
+  "issues_url": "https://github.com/halyard/puppet-ups/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+
+  ]
+}
