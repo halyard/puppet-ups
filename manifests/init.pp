@@ -14,8 +14,8 @@ class ups (
   }
 
   ~> exec { 'reload udev':
-    command => '/usr/bin/udevadm control --reload-rules',
-    path    => '/usr/bin',
+    command     => '/usr/bin/udevadm control --reload-rules',
+    path        => '/usr/bin',
     refreshonly => true,
   }
 
